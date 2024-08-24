@@ -168,6 +168,14 @@
         {
             "name": "Entertainment",
             "channels": [
+            {
+                    "drm_id": "citrabioskop",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/72287d1c\/3aef_r32.jpg",
+                    "name": "Citra Bioskop",
+                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live/eds\/CitraBioskopHD\/mpd\/CitraBioskopHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
@@ -908,6 +916,11 @@
         }
     ],
     "drm_licenses": [
+    {
+            "drm_id": "citrabioskop",
+            "drm_key": "{ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }",
+            "drm_type": "clearkey"
+        },
     {
             "drm_id": "cinemax",
             "drm_key": "b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e",
