@@ -572,6 +572,14 @@
         {
             "name": "Movies",
             "channels": [
+            {
+                    "drm_id": "cinemax",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/63d8f609\/a932_r32.jpg",
+                    "name": "Cinemax",
+                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CinemaxHD\/mpd\/CinemaxHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
@@ -760,23 +768,7 @@
                     "name": "SPORTSTARS 2",
                     "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports2-HD\/sa_dash_vmx\/MNCSports2-HD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "drm_id": "vision",
-                    "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/i.ibb.co\/Vq3G8GX\/20240331-082620.jpg",
-                    "name": "SPORTSTARS 3",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/MNCSports3-HD\/sa_dash_vmx\/MNCSports3-HD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
-                {
-                    "drm_id": "vision",
-                    "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/i.ibb.co\/5R5pzC2\/20240331-082701.jpg",
-                    "name": "SPORTSTARS 4",
-                    "stream_url": "https:\/\/cempedak-live-cdn.mncnow.id\/live\/eds\/Sportstar4\/sa_dash_vmx\/Sportstar4.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },                
+                },         
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
@@ -916,6 +908,11 @@
         }
     ],
     "drm_licenses": [
+    {
+            "drm_id": "cinemax",
+            "drm_key": "b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e",
+            "drm_type": "clearkey"
+        },
     {
             "drm_id": "media",
             "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
