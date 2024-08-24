@@ -6,7 +6,7 @@
             {
                     "drm_id": "media",
                     "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
+                    "logo_url": "https:\/\/s.id\/29Cys",
                     "name": "SCTV",
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
@@ -575,7 +575,7 @@
             {
                     "drm_id": "cinemax",
                     "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/63d8f609\/a932_r32.jpg",
+                    "logo_url": "https:\/\/s.id\/29Cyt",
                     "name": "Cinemax",
                     "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/CinemaxHD\/mpd\/CinemaxHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
