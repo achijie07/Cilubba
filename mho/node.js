@@ -4,6 +4,14 @@
             "name": "National Tv",
             "channels": [
             {
+                    "drm_id": "moji",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/s.id\/29Cys",
+                    "name": "MOJI",
+                    "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+            {
                     "drm_id": "media",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29Cys",
@@ -168,14 +176,7 @@
         {
             "name": "Entertainment",
             "channels": [
-            {
-                    "drm_id": "citrabioskop",
-                    "referer": "https:\/\/www.visionplus.id",
-                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/72287d1c\/3aef_r32.jpg",
-                    "name": "Citra Bioskop",
-                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live/eds\/CitraBioskopHD\/mpd\/CitraBioskopHD.mpd",
-                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
-                },
+            
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
@@ -458,6 +459,7 @@
         {
             "name": "Knowledge",
             "channels": [
+            
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
@@ -917,8 +919,8 @@
     ],
     "drm_licenses": [
     {
-            "drm_id": "citrabioskop",
-            "drm_key": "KXyXli/42emfHaF46gCD7A:lHiLyTcFQJCyFtwQHl+l3A",
+            "drm_id": "moji",
+            "drm_key": "052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9",
             "drm_type": "clearkey"
         },
     {
