@@ -972,12 +972,12 @@
         {
             "drm_id": "first_01",
             "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
-            "drm_type": "clearkey"
+            "drm_type": "com.clearkey.alpha"
         }
         {
             "drm_id": "first_02",
             "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
-            "drm_type": "clearkey"
+            "drm_type": "com.clearkey.alpha"
         }
     ]
 }
