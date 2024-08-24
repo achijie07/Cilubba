@@ -12,7 +12,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "first_01",
+                    "drm_id": "first",
                     "referer": "https:\/\/pisionx.pages.dev",
                     "logo_url": "https:\/\/s.id\/29CwX",
                     "name": "INDOSIAR",
@@ -20,7 +20,7 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "first_02",
+                    "drm_id": "first",
                     "referer": "https:\/\/www.dens.tv",
                     "logo_url": "https:\/\/i.ibb.co\/cQLnjRP\/20240331-085221.jpg",
                     "name": "SCTV",
