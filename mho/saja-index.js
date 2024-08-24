@@ -13,19 +13,19 @@
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
-                    "referer": "https:\/\/www.dens.tv",
+                    "drm_id": "first_01",
+                    "referer": "https:\/\/pisionx.pages.dev\/",
                     "logo_url": "https:\/\/i.ibb.co\/gmkpM80\/20240331-085144.jpg",
                     "name": "INDOSIAR",
-                    "stream_url": "http:\/\/op-group1-swiftservesd-1.dens.tv\/s\/s04\/index.m3u8?app_type=web&userid=lite&chname=Indosiar",
+                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
-                    "drm_id": "vision",
+                    "drm_id": "first_02",
                     "referer": "https:\/\/www.dens.tv",
                     "logo_url": "https:\/\/i.ibb.co\/cQLnjRP\/20240331-085221.jpg",
                     "name": "SCTV",
-                    "stream_url": "http:\/\/op-group1-swiftservehd-1.dens.tv\/s\/s03\/index.m3u8?app_type=web&userid=lite&chname=SCTV",
+                    "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
@@ -971,9 +971,14 @@
             "drm_type": "com.widevine.alpha"
         },
         {
-            "drm_id": "dazn",
-            "drm_key": "82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0",
-            "drm_type": "com.clearkey.alpha"
+            "drm_id": "first_01",
+            "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
+            "drm_type": "clearkey"
+        }
+        {
+            "drm_id": "first_02",
+            "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
+            "drm_type": "clearkey"
         }
     ]
 }
