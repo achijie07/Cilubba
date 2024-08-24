@@ -4,7 +4,7 @@
             "name": "National Tv",
             "channels": [
             {
-                    "drm_id": "firsts",
+                    "drm_id": "media",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
                     "name": "SCTV",
@@ -916,6 +916,11 @@
         }
     ],
     "drm_licenses": [
+    {
+            "drm_id": "media",
+            "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
+            "drm_type": "clearkey"
+        },
         {
             "drm_id": "vision",
             "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
@@ -926,11 +931,6 @@
             "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
             "drm_type": "clearkey"
         },
-        {
-            "drm_id": "firsts",
-            "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
-            "drm_type": "clearkey"
-        },
-       
+               
     ]
 }
