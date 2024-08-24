@@ -918,7 +918,7 @@
     "drm_licenses": [
     {
             "drm_id": "citrabioskop",
-            "drm_key": "{ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }",
+            "drm_key": "KXyXli/42emfHaF46gCD7A:lHiLyTcFQJCyFtwQHl+l3A",
             "drm_type": "clearkey"
         },
     {
