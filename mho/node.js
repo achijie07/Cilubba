@@ -3,6 +3,14 @@
         {
             "name": "National Tv",
             "channels": [
+            {
+                    "drm_id": "first",
+                    "referer": "https:\/\/www.visionplus.id",
+                    "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
+                    "name": "INDOSIAR",
+                    "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
                 {
                     "drm_id": "vision",
                     "referer": "https:\/\/www.visionplus.id",
@@ -904,6 +912,11 @@
             "drm_id": "vision",
             "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
             "drm_type": "com.widevine.alpha"
+        },
+        {
+            "drm_id": "first",
+            "drm_key": "5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6",
+            "drm_type": "clearkey"
         },
        
     ]
