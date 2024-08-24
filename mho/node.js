@@ -13,10 +13,10 @@
                 },
                 {
                     "drm_id": "first",
-                    "referer": "https:\/\/pisionx.pages.dev",
+                    "referer": "https:\/\/www.dens.tv",
                     "logo_url": "https:\/\/s.id\/29CwX",
                     "name": "INDOSIAR",
-                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
+                    "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live\/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
                 {
