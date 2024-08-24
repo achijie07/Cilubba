@@ -1,4 +1,3 @@
-
 {
     "categories": [
         {
@@ -15,7 +14,7 @@
                 {
                     "drm_id": "first_01",
                     "referer": "https:\/\/pisionx.pages.dev\/",
-                    "logo_url": "https:\/\/i.ibb.co\/gmkpM80\/20240331-085144.jpg",
+                    "logo_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg0yC166GFt-m-vgwT9_HScgFYf70acHVUDmxukkKxpTAoECBTagf81Scy3Ho2IEdmTFGTPqIuowM9uNVTaQmu8P8SkO3AeeUmPMIr1CIbnapLx4C7a1tDCGXv6OtruJqGx2MpE95rp3gpwuEhA5lx6yE0lRpABaRBEwDG24wsXkOwh-ImuMa_Jpu80zrA\/s1280\/20240331-085144.jpg",
                     "name": "INDOSIAR",
                     "stream_url": "https:\/\/atemeshield1-voe.sysln.id\/live/eds\/IndosiarHD\/mpd\/IndosiarHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
