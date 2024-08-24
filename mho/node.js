@@ -4,7 +4,7 @@
             "name": "National Tv",
             "channels": [
             {
-                    "drm_id": "first",
+                    "drm_id": "firsts",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/static.mncnow.id\/images\/channel\/f0ec5a1a\/a884_r32.jpg",
                     "name": "SCTV",
@@ -927,7 +927,7 @@
             "drm_type": "clearkey"
         },
         {
-            "drm_id": "first",
+            "drm_id": "firsts",
             "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
             "drm_type": "clearkey"
         },
