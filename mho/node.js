@@ -4,7 +4,7 @@
                     "drm_id": "vsport",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29CyY",
-                    "name": "V-SPORT 1",
+                    "name": "SPORT 1",
                     "stream_url": "https:\/\/cors-proxy.cooks.fyi\/https:\/\/director.streaming.telia.com\/tvm-packager-prod\/group1\/6089c17d47a23d76645ceaf4\/manifest.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
