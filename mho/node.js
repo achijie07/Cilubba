@@ -1,10 +1,17 @@
-{
+    {
     "categories": [
-    
-        {
+            {
             "name": "National Tv",
             "channels": [
-            {
+             {
+                    "drm_id": "",
+                    "referer": "https:\/\/ben.quietlywheat23.shop",
+                    "logo_url": "https:\/\/s.id\/29CyY",
+                    "name": "EVENT",
+                    "stream_url": "https:\/\/fhlsport20.fls77.xyz\/token-J0J7meXGKvWG5Td7xPY6y2qClMCG1HjjOHSrwKlPEzD37rWfHUFdCI4ppBJMW0RJBCeIxjNmkg%3D%3Da\/cfall\/s2001\/v3b\/o882p1n4nUE0pQbiY3EmAmphZ3umqT0ho25y\/super\/3x_574181.m3u8",
+                    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
+                },
+               {
                     "drm_id": "moji",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29CyY",
@@ -12,7 +19,7 @@
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/MOJIOChannel\/mpd\/MOJIOChannel.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-            {
+               {
                     "drm_id": "media",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29Cys",
@@ -20,7 +27,7 @@
                     "stream_url": "https:\/\/atemecdnbalancer-voe.sysln.id\/live\/eds\/SCTVHD\/mpd\/SCTVHD.mpd",
                     "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36"
                 },
-            {
+               {
                     "drm_id": "first",
                     "referer": "https:\/\/www.visionplus.id",
                     "logo_url": "https:\/\/s.id\/29Cyk",
@@ -925,12 +932,12 @@
             "drm_key": "052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9",
             "drm_type": "clearkey"
         },
-    {
+       {
             "drm_id": "cinemax",
             "drm_key": "b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e",
             "drm_type": "clearkey"
         },
-    {
+       {
             "drm_id": "media",
             "drm_key": "a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7",
             "drm_type": "clearkey"
