@@ -936,7 +936,7 @@
         },
         {
             "drm_id": "vision",
-            "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz",
+            "drm_key": "https:\/\/mrpw.ptmnc01.verspective.net\/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2",
             "drm_type": "com.widevine.alpha"
         },
         {
